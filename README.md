@@ -3,12 +3,12 @@
 
 ### Results on User dataset
 <p align="center">
-    <img src='runs/bottle/rgb.png' height="150"><img src='runs/bottle/normal.png' height="150"><img src='runs/bottle/diffuse.png' height="150">
-    <img src='runs/coaster/rgb.png' height="150"><img src='runs/coaster/normal.png' height="150"><img src='runs/coaster/diffuse.png' height="150">
-    <img src='runs/gbottle/rgb.png' height="150"><img src='runs/gbottle/normal.png' height="150"><img src='runs/gbottle/diffuse.png' height="150">
-    <img src='runs/mug/rgb.png' height="150"><img src='runs/mug/normal.png' height="150"><img src='runs/mug/diffuse.png' height="150">
-    <img src='runs/stone/rgb.png' height="150"><img src='runs/stone/normal.png' height="150"><img src='runs/stone/diffuse.png' height="150">
-	<img src='runs/wbottle/rgb.png' height="150"><img src='runs/wbottle/normal.png' height="150"><img src='runs/wbottle/diffuse.png' height="150">
+    <img src='runs/User/bottle/rgb.png' height="150"><img src='runs/User/bottle/normal.png' height="150"><img src='runs/User/bottle/diffuse.png' height="150">
+    <img src='runs/User/coaster/rgb.png' height="150"><img src='runs/User/coaster/normal.png' height="150"><img src='runs/User/coaster/diffuse.png' height="150">
+    <img src='runs/User/gbottle/rgb.png' height="150"><img src='runs/User/gbottle/normal.png' height="150"><img src='runs/User/gbottle/diffuse.png' height="150">
+    <img src='runs/User/mug/rgb.png' height="150"><img src='runs/User/mug/normal.png' height="150"><img src='runs/User/mug/diffuse.png' height="150">
+    <img src='runs/User/stone/rgb.png' height="150"><img src='runs/User/stone/normal.png' height="150"><img src='runs/User/stone/diffuse.png' height="150">
+    <img src='runs/User/wbottle/rgb.png' height="150"><img src='runs/User/wbottle/normal.png' height="150"><img src='runs/User/wbottle/diffuse.png' height="150">
 </p>
 
 ## Dependencies
