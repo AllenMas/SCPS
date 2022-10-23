@@ -1,0 +1,48 @@
+self.layers_xyz_normal
+Out[8]: 
+ModuleList(
+  (0): Linear(in_features=48, out_features=256, bias=True)
+  (1): Linear(in_features=256, out_features=256, bias=True)
+  (2): Linear(in_features=256, out_features=256, bias=True)
+  (3): Linear(in_features=256, out_features=256, bias=True)
+  (4): Linear(in_features=304, out_features=256, bias=True)
+  (5): Linear(in_features=256, out_features=256, bias=True)
+  (6): Linear(in_features=256, out_features=256, bias=True)
+  (7): Linear(in_features=256, out_features=256, bias=True)
+)
+self.fc_normal_xy
+Out[9]: Linear(in_features=256, out_features=2, bias=True)
+self.fc_normal_z
+Out[10]: Linear(in_features=256, out_features=1, bias=True)
+
+========================================================================
+
+self.layers_xyz
+Out[11]: 
+ModuleList(
+  (0): Linear(in_features=48, out_features=256, bias=True)
+  (1): Linear(in_features=256, out_features=256, bias=True)
+  (2): Linear(in_features=256, out_features=256, bias=True)
+  (3): Linear(in_features=256, out_features=256, bias=True)
+  (4): Linear(in_features=304, out_features=256, bias=True)
+  (5): Linear(in_features=256, out_features=256, bias=True)
+  (6): Linear(in_features=256, out_features=256, bias=True)
+  (7): Linear(in_features=256, out_features=256, bias=True)
+)
+
+------------------------------------------------------------------------
+
+self.fc_feat
+Out[12]: Linear(in_features=256, out_features=256, bias=True)
+self.layers_dir
+Out[13]: 
+ModuleList(
+  (0): Linear(in_features=256, out_features=128, bias=True)
+  (1): Linear(in_features=128, out_features=128, bias=True)
+  (2): Linear(in_features=128, out_features=128, bias=True)
+  (3): Linear(in_features=128, out_features=128, bias=True)
+)
+self.fc_diff
+Out[14]: Linear(in_features=128, out_features=3, bias=True)
+self.fc_spec_coeff
+Out[15]: Linear(in_features=128, out_features=48, bias=True)
