@@ -19,6 +19,7 @@
 ```
 python lights_initialize.py --config configs/User/{yourdata}.yml
 ```
+
     Then, train from scatch.
 ```
 python train.py --config configs/User/{yourdata}.yml
